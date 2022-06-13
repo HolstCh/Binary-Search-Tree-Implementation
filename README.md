@@ -1,4 +1,4 @@
-# Binary-Tree
+# Binary Search Tree
 Binary tree created in Java. Assignment document is Assignment03.pdf
 
 # Description
