@@ -1,5 +1,8 @@
 # Binary-Tree
-Binary tree created in Java. "FileInput.java" is my main class and should be executed with no command line arguments. After execution, the filename with text extension should be entered and file
+Binary tree created in Java. Assignment document is Assignment03.pdf
+
+# Description
+"FileInput.java" is my main class and should be executed with no command line arguments. After execution, the filename with text extension should be entered and file
 should be in the same folder as the JAVA files. Afterwords, the data will be parsed into an ArrayList for dynamic input. Then, converted into a String array called
 "words" to be passed to the BinaryTree class. BinaryTree class will begin inserting each word from the beginning into new Nodes or increase the "frequency" datamember
 of an existing Node. After insertion of all words, displayTree() will display all traversal and computing options with a switch statement. The user must input an integer
