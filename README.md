@@ -1,5 +1,5 @@
 # Binary Search Tree
-Binary tree created in Java. The following is the assignment document is [Assignment 03.pdf](Assignment 03.pdf)
+Binary tree created in Java. The following is the assignment document: [Assignment_3.pdf](Assignment_3.pdf)
 
 # Description
 "FileInput.java" is my main class and should be executed with no command line arguments. After execution, the filename with text extension should be entered and file
